@@ -9,8 +9,8 @@ This is a demo app for integrating google analytics with a react native app. [Li
 
 # To run the app
 
-  - git clone https://github.com/ayushinigam/react-native-google-analytics.git
-  - yarn or npm install
+  - git clone https://github.com/daonc-hust/React-Native-Google-Analytics.git
+  - npm install
   - react-native link
-  - For android: yarn run android
-  - For ios: yarn run ios
+  - For android: react-native run-android
+  - For ios: react-native run-ios
